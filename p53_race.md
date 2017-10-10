@@ -8,7 +8,7 @@ Behring
 CONSORT-style flowchart of study population
 -------------------------------------------
 
-![](L:/Han-BC_p53-72-Study/flow_two.png)
+![](https://github.com/behringm/Breast-p53-and-race/blob/master/flow_two.png)
 
 Table 1. Association between Race and study variables
 
